@@ -21,3 +21,5 @@ Tech stack
 - Python 3
 - wxPython – GUI
 - pygame – audio
+
+Save the python file and the audio files in the same folder for the game to work seamlessly.
