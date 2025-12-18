@@ -61,6 +61,8 @@ Rock Paper Scissors – Power-Up Activated
 ![RPS Powerup](rps_powerup.png)
 
 Bowling Game – Ball Roll & Score Output
+
+
 ![Bowling Game](bowling.png)
 
 Tic Tac Toe – Player vs Computer Output
