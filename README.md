@@ -49,4 +49,22 @@ Game Hub is a Python-based desktop application that provides a centralized platf
 - Random module – Game logic
 - OS & SYS modules – File handling
 
+  ## 📸 Sample Input / Output Screenshots
+
+Game Menu (Input: Game Selection)
+![Game Menu](menu.png)
+
+Rock Paper Scissors – Gameplay Output
+![Rock Paper Scissors Gameplay](rps_play.png)
+
+Rock Paper Scissors – Power-Up Activated
+![RPS Powerup](rps_powerup.png)
+
+Bowling Game – Ball Roll & Score Output
+![Bowling Game](bowling.png)
+
+Tic Tac Toe – Player vs Computer Output
+![Tic Tac Toe](tictactoe.png)
+
+
 Save the python file and the audio files in the same folder for the game to work seamlessly.
